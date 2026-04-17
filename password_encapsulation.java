@@ -19,7 +19,7 @@ class locker{
         }
     }
 }
-public class password_encapsulation {
+public class password_encapsulation{
     public static void main(String[] args){
         locker A = new locker();
         A.checkstatus();
